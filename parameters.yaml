@@ -1,0 +1,14 @@
+# Configuration file
+
+initial_phase: 0
+initial_period: 100 # Fringe desired period
+
+delta_phase_deg: 45 #Desired shift of phase
+
+vertical_fringe: True # True -> verticla fringes.  False -> horizontal fringes
+
+width: 1920 #800 # Fringe image widht. Note: Use the montor width resolution
+height: 1080 #600 # Fringe image height Note: Use the montor height resolution
+
+fps: 10 # frec to change to next frame.
+
